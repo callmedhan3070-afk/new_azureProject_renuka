@@ -1,0 +1,9 @@
+{
+	"name": "new-renuka-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4dbb905-c295-4f18-a989-3ce41e7b0006",
+		"tenantId": "f2e74045-e8f0-444a-94c5-32799c9e5d65"
+	}
+}
