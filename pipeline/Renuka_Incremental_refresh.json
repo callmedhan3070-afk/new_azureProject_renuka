@@ -5,8 +5,6 @@
 			{
 				"name": "Azure SQL to Datalake",
 				"type": "Copy",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "last cdc",
